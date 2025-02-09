@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Letöltés - All-in-One Messenger</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px;
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            font-size: 18px;
+            color: #555;
+        }
+        .download-btn {
+            background-color: #4CAF50;
+            color: white;
+            padding: 15px 32px;
+            font-size: 18px;
+            border: none;
+            cursor: pointer;
+            text-decoration: none;
+        }
+        .download-btn:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>All-in-One Messenger</h1>
+        <p>Itt letöltheted az All-in-One Messenger program legfrissebb verzióját.</p>
+        <a href="https://link_a_programhoz.exe" class="download-btn" download>Letöltés</a>
+    </div>
+</body>
+</html>
